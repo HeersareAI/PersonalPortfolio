@@ -182,12 +182,22 @@ textarea:focus {
     background: #4834d4;
     transform: translateY(-2px);
 }
-
-  @media (max-width: 992px) {
-     .work-grid {
-         grid-template-columns: repeat(2, 1fr);
-     }
+/* --- Media Queries Tablet and Mobile---*/
+@media (max-width: 992px) {
+    .work-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+ @media (max-width: 768px) {
+    .form-row {
+       grid-template-columns: 1fr;
  }
+
+.contact-section {
+    padding: 60px 20px;
+ }
+
+}
  @media (max-width: 600px) {
      .work-grid {
          grid-template-columns: 1fr;
