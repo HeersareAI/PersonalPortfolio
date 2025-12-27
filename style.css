@@ -1,11 +1,10 @@
-/* Google Fonts Import */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 
 :root {
-    --primary-gradient: linear-gradient(135deg, #6a85b6 0%, #bac8e0 100%);
-    /* Fallback */
-    --hero-gradient: linear-gradient(120deg, #667eea 0%, #764ba2 100%);
-    --logo-gradient: linear-gradient(to right, #667eea, #764ba2);
+    --primary-gradient: linear-gradient(135deg, #6a85b6 0%, #d1bae0 100%);
+    --hero-gradient: linear-gradient(120deg, #667eea 0%, #a04ba2 100%);
+    --logo-gradient: linear-gradient(to right, #667eea, #a24b9e);
     --text-dark: #333;
     --text-light: #fff;
     --font-main: 'Poppins', sans-serif;
@@ -38,14 +37,12 @@ ul {
     list-style: none;
 }
 
-/* Reusable Container */
 .container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 20px;
 }
 
-/* Header & Navigation */
 .header {
     position: fixed;
     top: 0;
@@ -105,7 +102,6 @@ ul {
     transition: var(--transition);
 }
 
-/* Mobile Menu Overlay */
 .mobile-menu {
     position: fixed;
     top: 0;
@@ -207,7 +203,6 @@ ul {
     background: radial-gradient(circle, rgba(255, 255, 255, 0.15) 0%, rgba(255, 255, 255, 0) 70%);
 }
 
-/* Bottom Right Shape */
 .hero-bg::after {
     width: 400px;
     height: 400px;
@@ -215,7 +210,6 @@ ul {
     right: -50px;
     background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0) 70%);
     border-radius: 40px;
-    /* Soft square */
     transform: rotate(45deg);
 }
 
