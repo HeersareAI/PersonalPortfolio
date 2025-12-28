@@ -55,32 +55,19 @@ code .
 
 ## Key Features
 
- Modern and professional UI design
+ - Modern and professional UI design
 
- Fully responsive layout (desktop, tablet, mobile)
+ - Fully responsive layout (desktop, tablet, mobile)
 
- Clear section-based navigation
+ - Clear section-based navigation
 
- Portfolio cards with visual previews
+ - Portfolio cards with visual previews
 
- Functional contact form layout
+ - Functional contact form layout
 
- Smooth and consistent styling
+ - Smooth and consistent styling
 
-
-
-## Technologies We Used
-
- HTML5 –  semantic Structure
-
- CSS3 – styling, gradients and responsive layout
-
- JavaScript – interactivity 
-
- Git & GitHub – collaboration and version control
-
- Vercel – deployment and hosting
-
+---
 
 
 
@@ -90,7 +77,7 @@ code .
   git clone https://github.com/your-username/personal-portfolio.git cd personal-portfolio
  code . for the terminal.
 
-
+---
 
 ## Website Sections
 
@@ -101,6 +88,7 @@ code .
 
 The homepage introduces the brand Personal Shape with a bold headline: “Transforming Ideas Into Beautiful Experiences”, accompanied by a short description and a clear call-to-action button.
 
+---
 
 
 ## About Section
@@ -110,6 +98,8 @@ The homepage introduces the brand Personal Shape with a bold headline: “Transf
 ![About Section](./Images/about.png)
 
 The about section highlights passion for creating meaningful digital experiences, professional background, and areas of expertise such as UI/UX Design, Web Development, Brand Identity, Motion Graphics, Prototyping, and Design Systems.
+
+---
 
 
 
@@ -122,18 +112,19 @@ The about section highlights passion for creating meaningful digital experiences
 
  The portfolio section showcases multiple projects with images, titles, descriptions, and related technologies, including:
 
- E-commerce Platform
+ - E-commerce Platform
 
- Brand Identity System
+ - Brand Identity System
 
- Mobile App Design
+ - Mobile App Design
 
- Dashboard Interface
+ - Dashboard Interface
 
- Marketing Website
+ - Marketing Website
 
- Creative Portfolio Website
+ - Creative Portfolio Website
 
+---
 
 
 
@@ -147,41 +138,46 @@ The about section highlights passion for creating meaningful digital experiences
 
  The contact section includes a professional message invitation and a form with the following fields:
 
- Name
+ - Name
 
- Email
+ - Email
 
- Subject
+ - Subject
 
- Message
+ - Message
 
 
+---
 
 
 
 ## Purpose
 
- This project was created to:
+ - This project was created to:
 
- Create a professional online portfolio
+ - Create a professional online portfolio
 
- Showcase creative and design-focused projects
+ - Showcase creative and design-focused projects
 
- Demonstrate frontend development skills
+ - Demonstrate frontend development skills
 
- Practice real-world GitHub collaboration
+ - Practice real-world GitHub collaboration
 
- Support academic and professional presentation
+ - Support academic and professional presentation
 
+
+---
 
 
 
 ## Contributors  (GitHub collaboration project)
 
- Abdi kani Mohamed  – J.Developer
+ - Abdi kani Mohamed  – J.Developer
 
- Eng Ahmed Omar  – J.Developer
+ - Eng Ahmed Omar  – J.Developer
 
+
+---
 
 ## License
 
